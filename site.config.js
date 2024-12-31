@@ -6,9 +6,10 @@ const CONFIG = {
     role: "Machine Learning Engineer",
     bio: "Building AI Agents. Interested in making llm runs faster. Building a startup.",
     email: "mrleritaite@gmail.com",
-    linkedin: "https://www.linkedin.com/in/flavius-denis-moldovan-a715b0166/",
+    linkedin: "flavius-denis-moldovan-a715b0166",
     github: "MrLeritaite",
-    X: "https://x.com/MrLeritaite",
+    instagram: "",
+    twitter: "MrLeritaite",
   },
   projects: [
     {

@@ -6,6 +6,7 @@ import {
   AiOutlineInstagram,
   AiOutlineMail,
 } from "react-icons/ai"
+import { FaXTwitter } from "react-icons/fa6";
 import { CONFIG } from "site.config"
 import { Emoji } from "src/components/Emoji"
 
@@ -55,6 +56,16 @@ const ContactCard: React.FC = () => {
           >
             <AiFillLinkedin className="icon" />
             <div className="name">linkedin</div>
+          </a>
+        )}
+        {CONFIG.profile.x && (
+          <a
+            href={`https://x.com/${CONFIG.profile.linkedin}`}
+            rel="noreferrer"
+            target="_blank"
+          >
+            <FaXTwitter className="icon" />
+            <div className="name">X</div>
           </a>
         )}
       </StyledWrapper>
