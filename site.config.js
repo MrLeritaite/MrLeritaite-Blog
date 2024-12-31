@@ -9,7 +9,7 @@ const CONFIG = {
     linkedin: "flavius-denis-moldovan-a715b0166",
     github: "MrLeritaite",
     instagram: "",
-    twitter: "MrLeritaite",
+    x: "MrLeritaite",
   },
   projects: [
     {
