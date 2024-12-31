@@ -21,7 +21,7 @@ const CONFIG = {
   blog: {
     title: "UnderTheHood",
     description: "welcome to UnderTheHood!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
